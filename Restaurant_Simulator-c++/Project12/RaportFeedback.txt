@@ -1,0 +1,39 @@
+
+
+------------------------------------------RAPORT-FEEDBACK------------------------------------------
+
+	*Numar feedback oferit de clienti: 15
+	*Medie feedback: 8.00
+Restaurantul primeste in general o nota buna.
+
+Lista feedback: 
+	Frumos 9
+	Gustos 9
+	delicios 9
+	exceptional 10
+	extraordinar 10
+	frumos 10
+	gust 4
+	gustos 8
+	interesant 10
+	local 5
+	manacare sarata 6
+	mancare buna 10
+	meh 3
+	misto 7
+	servicii 10
+
+		Metoda reprezentare a datelor: 
+
+	 1  | 
+	 2  | 
+	 3  |  * 
+	 4  |  * 
+	 5  |  * 
+	 6  |  * 
+	 7  |  * 
+	 8  |  * 
+	 9  |  *  *  * 
+	 10 |  *  *  *  *  *  * 
+
+---------------------------------------------------------------------------------------------------

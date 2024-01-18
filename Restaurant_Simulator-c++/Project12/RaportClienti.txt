@@ -1,0 +1,41 @@
+
+
+------------------------------------------RAPORT-CLIENTI------------------------------------------
+
+	*Numar conturi clienti: 10
+	*Numar conturi create anul trecut: 7
+	*Numar conturi create in acest an: 2
+	*Numar conturi create in aceasta luna: 2
+
+Comparatie conturi create conturi anul cu anul curent: 
+
+2023:  *  *  *  *  *  *  * 
+
+2024:  *  * 
+	Se poate observa ca in anul precedent au fost create mai multe conturi.
+
+Lista clienti: 
+
+	1. ﻿Apetroaei Emanuela 
+Date contact: emacatalina2002@yahoo.com,0758-136-600,Strada Tineretului
+	2. Portariu Vasile 
+Date contact: portariuVasile@yahoo.com,0733-123-572,Strada Floarei
+	3. Cocris Ana 
+Date contact: c.ana@yahoo.com,0722-123-212,Strada Sperantei
+	4. Perijoc Roxana 
+Date contact: roxi.perijoc@yahoo.com,0789-222-123,Strada Camarad
+	5. Popescu Ionut 
+Date contact: popescuIonut@yahoo.com,0766-483-228,Strada Unirii
+	6. Ionescu Eduart 
+Date contact: ionescu200ionut@yahoo.com,0755-222-338,Strada Agriculturii
+	7. Barbu Adina 
+Date contact: barbuAdina@yahoo.com,0733-833-828,Strada Pacii
+	8. Ureche Florentina 
+Date contact: ureche.2Florentina@yahoo.com,0733-222-123,Strada Floarei
+	9. Gavril Maria 
+Date contact: gavrila.maria@yahoo.com,0744-128-282,Strada Ursului
+	10. Banaurs Magda 
+Date contact: ban.magda@yahoo.com,0733-222-221,Strada Prieteniei
+
+
+------------------------------------------------------------------------------------------------

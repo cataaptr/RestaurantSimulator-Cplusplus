@@ -1,0 +1,37 @@
+
+
+------------------------------------RAPORT-INTREBARI-FRECVENTE------------------------------------
+
+	*Numar intrebari: 6
+	*Numar accesari intrebari: 52
+	*Media aritmetica: 8.66667
+	*Media geometrica: 480.625
+	*Mediana (cuantila de ordin 2) : Intrebarea: Este necesara o rezervare prealabila? ( 7 accesari ) 
+
+Top trei intrebari cele mai accesate: 
+	1. Detalii contact: ( 15 accesari ) 
+	2. Cat dureaza livrarea? ( 11 accesari ) 
+	3. Care sunt orele de functionare ale restaurantului? ( 10 accesari ) 
+
+Top trei intrebari cele mai putin accesate: 
+	1. Ce metode de plata sunt acceptate? ( 4 accesari ) 
+	2. Cum pot face o rezervare? ( 5 accesari ) 
+	3. Este necesara o rezervare prealabila? ( 7 accesari ) 
+
+
+	Metoda de reprezentare a datelor utilizand tehnica STEAM AND LEAF ( usor modificata ):
+ 
+0 | * * * * 		 ( Ce metode de plata sunt acceptate? )
+
+1 | * * * * * 		 ( Cum pot face o rezervare? )
+
+2 | * * * * * * * 		 ( Este necesara o rezervare prealabila? )
+
+3 | * * * * * * * * * * 		 ( Care sunt orele de functionare ale restaurantului? )
+
+4 | * * * * * * * * * * * 		 ( Cat dureaza livrarea? )
+
+5 | * * * * * * * * * * * * * * * 		 ( Detalii contact: )
+
+
+------------------------------------------------------------------------------------------------

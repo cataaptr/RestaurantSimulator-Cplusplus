@@ -1,0 +1,16 @@
+﻿  Bautura.cpp
+  ContClient.cpp
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(38,20): warning C4129: '.': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(38,20): warning C4129: '[': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(88,20): warning C4129: '.': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(88,20): warning C4129: '[': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(130,21): warning C4129: '.': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(130,21): warning C4129: '[': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(205,20): warning C4129: '.': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(205,20): warning C4129: '[': unrecognized character escape sequence
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(507,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(532,21): warning C4018: '<': signed/unsigned mismatch
+  Retetar.cpp
+  Generating Code...
+C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Project12\ContClient.cpp(325): warning C4715: 'extrageParolaDinFisier': not all control paths return a value
+  Project12.vcxproj -> C:\Users\HP\Desktop\save\[Proiect][1051][Apetroaei Emanuela-Catalina]-[Faza II]\Debug\Project12.exe

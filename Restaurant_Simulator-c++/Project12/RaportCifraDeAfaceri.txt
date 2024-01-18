@@ -1,0 +1,15 @@
+
+------------------------------------RAPORT-CIFRA-DE-AFACERI-----------------------------------
+
+	*Nr comenzi plasate: 63
+	*Prima comanda plasata: 13
+	*Ultima comanda plasata: 799
+	*Cea mai mica comanda: 13
+	*Cea mai mare comanda: 799
+
+	*Cifra de afaceri: 10293
+	*Excedentul brut (CA-Ch exploatare-Ch cu amortizarea): 9903
+	*Rezultatul curent (ExB-Ch dobanzi): 9763
+	*Profit: 8200.92
+
+----------------------------------------------------------------------------------------------

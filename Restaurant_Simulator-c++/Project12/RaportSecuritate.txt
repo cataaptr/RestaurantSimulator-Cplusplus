@@ -1,0 +1,14 @@
+
+
+------------------------------------------RAPORT-SECURITATE------------------------------------------
+
+
+	*Numar introduceri gresite e-mail: 75
+	*Numar introduceri corecte e-mail: 47
+	*Numar introduceri gresite parola: 9
+	*Numar introduceri corecte parola: 57
+	*Raport logari reusite/nereusite: 1.24
+
+Numarul logarilor corecte este mai mic decat cel al logarilor incorecte. Sistemul de logare curent este nesigur, recomandam imbunatatirea acestuia.
+
+-----------------------------------------------------------------------------------------------------

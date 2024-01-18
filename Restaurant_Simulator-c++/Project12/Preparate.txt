@@ -1,0 +1,9 @@
+Calamari cu mozarella,64,0,0,10,1,0,0
+Crochete de cod negru,64,0,0,10,1,0,0
+Biban de Mare,109,0,0,10,0,0,1
+Somon in crusta de fistic,109,0,0,10,0,0,1
+Paste Carbonara,69,0,0,10,0,1,0
+Risotto cu trufe,89,0,0,10,0,1,0
+Pizza Quattro Formaggi Mica,70,0,1,10,0,0,0
+Pizza Quattro Formaggi Medie,80,0,1,20,0,0,0
+Pizza Quattro Formaggi Mare,90,0,1,30,0,0,0

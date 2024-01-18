@@ -1,0 +1,6 @@
+Care sunt orele de functionare ale restaurantului?,10,PROGRAM:    LUNI-VINERI: 10:00-22:00    SAMBATA-DUMINICA: 10:00-01:00
+Cat dureaza livrarea?,11,Livrarea poate sa difere in functie locatia clientului, dar in medie: 40 min-o ora.
+Ce metode de plata sunt acceptate?,4,Metodele de plata acceptate sunt: plata la livrare.
+Cum pot face o rezervare?,5,Rezervarile se realizeaza exclusiv telefon la numarul: (+40)-000-000-000
+Detalii contact:,15,Numar telefon: (+40)-000-000-000       Locatie: Strada Florilor, Numarul 9.
+Este necesara o rezervare prealabila?,7,Recomandam realizarea unei rezervari pentru a evita situatiile neplacute.
